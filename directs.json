@@ -16849,7 +16849,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x66853E19d73c0F9301fe099c324A1E9726953433",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8/logo.png"
       },
       "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60": {
         "address": "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
@@ -16857,7 +16858,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xA43A34030088E6510FecCFb77E88ee5e7ed0fE64",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60/logo.png"
       },
       "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f": {
         "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
@@ -16865,7 +16867,8 @@
         "decimals": 8,
         "active": true,
         "priceFeed": "0xd0C7101eACbB49F3deCcCc166d238410D6D46d57",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f/logo.png"
       },
       "0x35751007a407ca6feffe80b3cb397736d2cf4dbe": {
         "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
@@ -16881,7 +16884,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x47E55cCec6582838E173f252D08Afd8116c2202d",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0x539bdE0d7Dbd336b79148AA742883198BBF60342/logo.png"
       },
       "0x5979d7b546e38e414f7e9822514be443a4800529": {
         "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
@@ -16905,7 +16909,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x639Fe6ab55C921f74e7fac1ee960C0B6293ba612",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
       },
       "0x912ce59144191c1204e64559fe8253a0e49e6548": {
         "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
@@ -16913,7 +16918,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xb2A824043730FE05F3DA2efaFa1CBbe83fa548D6",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png"
       },
       "0xaf88d065e77c8cc2239327c5edb3a432268e5831": {
         "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
@@ -16921,7 +16927,8 @@
         "decimals": 6,
         "active": true,
         "priceFeed": "0x50834F3163758fcC1Df9973b6e91f0F0F0434aD3",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xaf88d065e77c8cC2239327C5EDb3A432268e5831/logo.png"
       },
       "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf": {
         "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
@@ -16937,7 +16944,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x9dC30b7242556F871932AFe38CC34d2a77E6F6C9",
-        "priceFeedDecimals": 18
+        "priceFeedDecimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
       },
       "0xf97f4df75117a78c1a5a0dbb814af92458539fb4": {
         "address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
@@ -16945,7 +16953,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x86E53CF1B870786351Da77A57575e79CB55812CB",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xf97f4df75117a78c1A5a0DBb814Af92458539FB4/logo.png"
       },
       "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0": {
         "address": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
@@ -16953,7 +16962,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x9C917083fDb403ab5ADbEC26Ee294f6EcAda2720",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0/logo.png"
       },
       "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a": {
         "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
@@ -16961,7 +16971,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xDB98056FecFff59D032aB628337A4887110df3dB",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a/logo.png"
       },
       "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9": {
         "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
@@ -16969,7 +16980,8 @@
         "decimals": 6,
         "active": true,
         "priceFeed": "0x3f3f5dF88dC9F13eac63DF89EC16ef6e7E25DdE7",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9/logo.png"
       },
       "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8": {
         "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
@@ -16977,7 +16989,8 @@
         "decimals": 6,
         "active": true,
         "priceFeed": "0x50834F3163758fcC1Df9973b6e91f0F0F0434aD3",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png"
       }
     },
     "base": {
@@ -16995,7 +17008,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xEaf310161c9eF7c813A14f8FEF6Fb271434019F7",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b/logo.png"
       },
       "0x1cea84203673764244e05693e42e6ace62be9ba5": {
         "address": "0x1cea84203673764244e05693e42e6ace62be9ba5",
@@ -17019,7 +17033,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xd7818272B9e248357d13057AAb0B417aF31E817d",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22/logo.png"
       },
       "0x311935cd80b76769bf2ecc9d8ab7635b2139cf82": {
         "address": "0x311935cd80b76769bf2ecc9d8ab7635b2139cf82",
@@ -17041,7 +17056,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x71041dddad3595F9CEd3DcCFBe3D1F4b0a16Bb70",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x4200000000000000000000000000000000000006/logo.png"
       },
       "0x50c5725949a6f0c72e6c4a641f24049a917db0cb": {
         "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
@@ -17049,7 +17065,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x591e79239a7d679378eC8c847e5038150364C78F",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb/logo.png"
       },
       "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
         "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
@@ -17065,7 +17082,8 @@
         "decimals": 6,
         "active": true,
         "priceFeed": "0xDAe398520e2B67cd3f27aeF9Cf14D93D927f8250",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42/logo.png"
       },
       "0x63706e401c06ac8513145b7687a14804d17f814b": {
         "address": "0x63706e401c06ac8513145b7687a14804d17f814b",
@@ -17087,7 +17105,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x2330aaE3bca5F05169d5f4597964D44522F62930",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x820C137fa70C8691f0e44Dc420a5e53c168921Dc/logo.png"
       },
       "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913": {
         "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
@@ -17095,7 +17114,8 @@
         "decimals": 6,
         "active": true,
         "priceFeed": "0x7e860098F58bBFC8648a4311b374B1D669a2bc6B",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913/logo.png"
       },
       "0x940181a94a35a4569e4529a3cdfb74e38fd98631": {
         "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
@@ -17103,7 +17123,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x4EC5970fC728C5f65ba413992CD5fF6FD70fcfF0",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x940181a94A35A4569E4529A3CDfB74e38FD98631/logo.png"
       },
       "0xab6363da0c80cef3ae105bd6241e30872355d021": {
         "address": "0xab6363da0c80cef3ae105bd6241e30872355d021",
@@ -17133,7 +17154,8 @@
         "decimals": 6,
         "active": true,
         "priceFeed": "0x7e860098F58bBFC8648a4311b374B1D669a2bc6B",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png"
       },
       "0xecac9c5f704e954931349da37f60e39f515c11c1": {
         "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
@@ -17149,7 +17171,8 @@
         "decimals": 6,
         "active": true,
         "priceFeed": "0xf19d560eB8d2ADf07BD6D13ed03e1D11215721F9",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2/logo.png"
       }
     },
     "bsc": {
@@ -17159,7 +17182,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x3ae518be05e3F7faBf7e3Ace22Af795D7A09c2E5",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x000Ae314E2A2172a039B26378814C252734f556A/logo.png"
       },
       "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82": {
         "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
@@ -17167,7 +17191,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xB6064eD41d4f67e353768aA239cA86f4F73665a1",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png"
       },
       "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3": {
         "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
@@ -17175,13 +17200,15 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x132d3C0B1D2cEa0BC552588063bdBb210FDeecfA",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3/logo.png"
       },
       "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb": {
         "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
         "symbol": "ZEC",
         "decimals": 18,
-        "active": true
+        "active": true,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb/logo.png"
       },
       "0x1fa4a73a3f0133f0025378af00236f3abdee5d63": {
         "address": "0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
@@ -17189,7 +17216,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x0Fe4D87883005fCAFaF56B81d09473D9A29dCDC3",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63/logo.png"
       },
       "0x2170ed0880ac9a755fd29b2688956bd959f933f8": {
         "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
@@ -17197,7 +17225,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x9ef1B8c0E4F7dc8bF5719Ea496883DC6401d5b2e",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png"
       },
       "0x55d398326f99059ff775485246999027b3197955": {
         "address": "0x55d398326f99059ff775485246999027b3197955",
@@ -17205,7 +17234,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xB97Ad0E74fa7d920791E90258A6E2085088b4320",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png"
       },
       "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
         "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
@@ -17221,7 +17251,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x264990fbd0A4796A3E3d8E37C4d5F87a3aCa5Ebf",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png"
       },
       "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d": {
         "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
@@ -17229,7 +17260,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x51597f405303C4377E36123cBc172b13269EA163",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
       },
       "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c": {
         "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
@@ -17237,7 +17269,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x0567F2323251f0Aab15c8dFb1967E4e8A7D42aeE",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
       },
       "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
         "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
@@ -17245,7 +17278,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xcBb98864Ef56E9042e7d2efef76141f15731B82f",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png"
       },
       "0xfb6115445bff7b52feb98650c87f44907e58f802": {
         "address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
@@ -17253,7 +17287,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xA8357BF572460fC40f4B0aCacbB2a6A61c89f475",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xfb6115445Bff7b52FeB98650C87f44907E58f802/logo.png"
       }
     },
     "ethereum": {
@@ -17263,7 +17298,8 @@
         "decimals": 6,
         "active": true,
         "priceFeed": "0xB00341502DfEA6Ced8A5786b4059d29dA5E4D1FD",
-        "priceFeedDecimals": 18
+        "priceFeedDecimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a/logo.png"
       },
       "0x090185f2135308bad17527004364ebcc2d37e5f6": {
         "address": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
@@ -17271,7 +17307,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x8c110B94C5f1d347fAcF5E1E938AB2db60E3c9a8",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x090185f2135308BaD17527004364eBcC2D37e5F6/logo.png"
       },
       "0x0ab87046fbb341d058f17cbc4c1133f25a20a52f": {
         "address": "0x0ab87046fBb341D058F17CBC4c1133F25a20a52f",
@@ -17285,19 +17322,22 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xA027702dbb89fbd58938e4324ac03B58d812b0E1",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
       },
       "0x0d8775f648430679a709e98d2b0cb6250d2887ef": {
         "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
         "symbol": "BAT",
         "decimals": 18,
-        "active": true
+        "active": true,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png"
       },
       "0x163f8c2467924be0ae7b5347228cabf260318753": {
         "address": "0x163f8C2467924be0ae7B5347228CABF260318753",
         "symbol": "WLD",
         "decimals": 18,
-        "active": true
+        "active": true,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x163f8C2467924be0ae7B5347228CABF260318753/logo.png"
       },
       "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": {
         "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
@@ -17305,7 +17345,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x553303d460EE0afB37EdFf9bE42922D8FF63220e",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
       },
       "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
         "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
@@ -17313,7 +17354,8 @@
         "decimals": 8,
         "active": true,
         "priceFeed": "0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
       },
       "0x4c9edd5852cd905f086c759e8383e09bff1e68b3": {
         "address": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
@@ -17321,7 +17363,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xa569d910839Ae8865Da8F8e70FfFb0cBA869F961",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4c9EDD5852cd905f086C759E8383e09bff1E68B3/logo.png"
       },
       "0x514910771af9ca656af840dff83e8264ecf986ca": {
         "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
@@ -17329,13 +17372,15 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x2c1d072e956AFFC0D435Cb7AC38EF18d24d9127c",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
       },
       "0x57e114b691db790c35207b2e685d4a43181e6061": {
         "address": "0x57e114b691db790c35207b2e685d4a43181e6061",
         "symbol": "ENA",
         "decimals": 18,
-        "active": true
+        "active": true,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57e114B691Db790C35207b2e685D4A43181e6061/logo.png"
       },
       "0x68749665ff8d2d112fa859aa293f07a622782f38": {
         "address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
@@ -17343,7 +17388,8 @@
         "decimals": 6,
         "active": true,
         "priceFeed": "0x214eD9Da11D2fbe465a6fc601a91E62EbEc1a0D6",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x68749665FF8D2d112Fa859AA293F07A622782F38/logo.png"
       },
       "0x6b175474e89094c44da98b954eedeac495271d0f": {
         "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
@@ -17351,7 +17397,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xAed0c38402a5d19df6E4c03F4E2DceD6e29c1ee9",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
       },
       "0x6c3ea9036406852006290770bedfcaba0e23a0e8": {
         "address": "0x6c3ea9036406852006290770bedfcaba0e23a0e8",
@@ -17359,7 +17406,8 @@
         "decimals": 6,
         "active": true,
         "priceFeed": "0x8f1dF6D7F2db73eECE86a18b4381F4707b918FB1",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6c3ea9036406852006290770BEdFcAbA0e23A0e8/logo.png"
       },
       "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": {
         "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
@@ -17367,7 +17415,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x164b276057258d81941e97B0a900D4C7B358bCe0",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0/logo.png"
       },
       "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9": {
         "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
@@ -17375,7 +17424,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x547a514d5e3769680Ce22B2361c10Ea13619e8a9",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
       },
       "0x8292bb45bf1ee4d140127049757c2e0ff06317ed": {
         "address": "0x8292bb45bf1ee4d140127049757c2e0ff06317ed",
@@ -17391,7 +17441,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xec1D1B3b0443256cc3860e24a46F108e699484Aa",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
       },
       "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
         "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -17399,7 +17450,8 @@
         "decimals": 6,
         "active": true,
         "priceFeed": "0x8fFfFfd4AfB6115b954Bd326cbe7B4BA576818f6",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
       },
       "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd": {
         "address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
@@ -17421,7 +17473,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xCfE54B5cD566aB89272946F602D76Ea879CAb4a8",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84/logo.png"
       },
       "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
         "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
@@ -17429,7 +17482,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
       },
       "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf": {
         "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
@@ -17445,7 +17499,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xCd627aA160A6fA45Eb793D19Ef54f5062F20f33f",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
       },
       "0xdac17f958d2ee523a2206206994597c13d831ec7": {
         "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
@@ -17453,7 +17508,8 @@
         "decimals": 6,
         "active": true,
         "priceFeed": "0x3E7d1eAB13ad0104d2750B8863b489D65364e32D",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
       },
       "0xdc035d45d973e3ec169d2276ddab16f1e407384f": {
         "address": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
@@ -17461,7 +17517,8 @@
         "decimals": 18,
         "active": true,
         "priceFeed": "0xfF30586cD0F29eD462364C7e81375FC0C71219b1",
-        "priceFeedDecimals": 8
+        "priceFeedDecimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdC035D45d973E3EC169d2276DDab16f1e407384F/logo.png"
       }
     },
     "unichain": {
